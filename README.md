@@ -14,4 +14,4 @@ mvn test
 Application developed as some test for (pure-java-rest-api)[https://github.com/Software-Engineering-Courses-Moshirpour/java-rest-api]
 Befor run test, you must run API server based on instruction.
 
-We have used [Junit](https://junit.org/junit5/) for run tests.
+We have used [Junit](https://junit.org/junit5) for run tests.
