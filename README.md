@@ -5,7 +5,7 @@
 
 You must install [maven](https://maven.apache.org/)
 Go to the root of the project.
-Build application:
+Run tests:
 
 ```bash
 mvn test
